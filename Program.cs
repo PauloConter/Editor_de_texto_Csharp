@@ -25,7 +25,6 @@ namespace editortexto
                 case 1: Abrir(); break;
                 case 2: Editar(); break;
                 default: Menu(); break;
-
             }
 
 
