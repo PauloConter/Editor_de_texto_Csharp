@@ -38,7 +38,7 @@ namespace editortexto
             using (var Arquivo = new StreamReader(Caminho))
             {
 
-                string Texto = Arquivo.ReadToEnd();
+                string Texto = Arquivo.ReadToEnd(); 
                 Console.WriteLine(Texto);
 
             }
