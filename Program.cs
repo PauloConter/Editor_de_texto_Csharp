@@ -6,7 +6,7 @@ namespace editortexto
     class program 
     {
 
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             Menu();
         }
